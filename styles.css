@@ -34,6 +34,8 @@ h1 {
 
     img{
         border: 3px solid rgb(15, 194, 218);
+        max-width: 95%;
+        max-height: 100%;
     }
 
     footer{
